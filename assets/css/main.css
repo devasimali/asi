@@ -11,6 +11,7 @@ section{
     height: 100vh;
     position: relative;
     overflow: hidden;
+     min-width: 587px;
 }
 .contaner{
     position: absolute;
@@ -21,9 +22,10 @@ section{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-size:cover ;
+    
     background-repeat:no-repeat ;
     background-position: center;
+   
     
 }
 .login{
